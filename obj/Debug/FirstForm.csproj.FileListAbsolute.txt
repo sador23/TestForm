@@ -1,0 +1,9 @@
+c:\users\sador23\documents\visual studio 2017\Projects\FirstForm\FirstForm\bin\Debug\FirstForm.exe.config
+c:\users\sador23\documents\visual studio 2017\Projects\FirstForm\FirstForm\bin\Debug\FirstForm.exe
+c:\users\sador23\documents\visual studio 2017\Projects\FirstForm\FirstForm\bin\Debug\FirstForm.pdb
+c:\users\sador23\documents\visual studio 2017\Projects\FirstForm\FirstForm\obj\Debug\FirstForm.csprojResolveAssemblyReference.cache
+c:\users\sador23\documents\visual studio 2017\Projects\FirstForm\FirstForm\obj\Debug\FirstForm.Form1.resources
+c:\users\sador23\documents\visual studio 2017\Projects\FirstForm\FirstForm\obj\Debug\FirstForm.Properties.Resources.resources
+c:\users\sador23\documents\visual studio 2017\Projects\FirstForm\FirstForm\obj\Debug\FirstForm.csproj.GenerateResource.Cache
+c:\users\sador23\documents\visual studio 2017\Projects\FirstForm\FirstForm\obj\Debug\FirstForm.exe
+c:\users\sador23\documents\visual studio 2017\Projects\FirstForm\FirstForm\obj\Debug\FirstForm.pdb
